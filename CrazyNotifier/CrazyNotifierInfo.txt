@@ -1,0 +1,15 @@
+ CrazyNotifier
+Simple Text Notification Android Application. Download Project via downloading CrazyNotifier.zip file and extract it.
+Open files in direct Android Studio.
+OR
+Download Direct Application by downloading CrazyNotifier.apk and install it on Android Phone.
+You Can Find This App on Free Appstores:--
+https://www.amazon.com/s?i=mobile-apps&rh=p_4%3ACrazy+Indian+Developer&search-type=ss
+
+https://crazynotifier.en.uptodown.com/android
+
+
+CrazyNotifier App Info :-- https://youtu.be/4Q1B3D2xlBc
+My Android Development PlayList:-- https://www.youtube.com/playlist?list=PLGd_24H8MbCZ3A9e-Y1q23ukKjEMOeXnI
+My YouTube Channel Link :-- https://www.youtube.com/channel/UCnij5U2Ic3PtpzCWmmydP7g?sub_confirmation=1
+Instagram :-- https://www.instagram.com/crazy_indian_developer/
